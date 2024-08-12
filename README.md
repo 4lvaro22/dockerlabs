@@ -4,4 +4,3 @@ This repository contains the solutions for the challenges of the [Docker Labs](h
 ## Challenges completed
 
 - [Injection](injection/README.md)
-
