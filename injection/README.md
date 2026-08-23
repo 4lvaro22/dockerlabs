@@ -1,3 +1,19 @@
+---
+title: "Injection"
+slug: "injection"
+excerpt: "A practical walkthrough covering service discovery, web enumeration, SQL injection and Linux privilege escalation."
+date: "2024-08-11"
+status: "published"
+platform: "DockerLabs"
+topic: "Offensive security"
+difficulty: "Easy"
+tags:
+  - "Nmap"
+  - "Gobuster"
+  - "SQL injection"
+  - "Linux privilege escalation"
+---
+
 # Injection
 
 ## Phase 1: Scanning for Services
