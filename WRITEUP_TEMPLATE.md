@@ -1,38 +1,37 @@
 ---
-title: "Machine name"
-slug: "machine-name"
-excerpt: "A concise description of the attack path and the main lesson from the machine."
+title: "Write-up title"
+slug: "write-up-slug"
+excerpt: "A concise description of the subject, approach and main takeaway."
 date: "YYYY-MM-DD"
 status: "draft"
-platform: "DockerLabs"
-topic: "Offensive security"
-difficulty: "Easy"
+category: "Software engineering"
+context: "Optional project, platform or series"
+difficulty: "Optional level"
 tags:
-  - "Reconnaissance"
-  - "Initial access"
-  - "Privilege escalation"
+  - "First topic"
+  - "Second topic"
 ---
 
-# Machine name
+# Write-up title
 
-> This exercise was performed in an intentionally vulnerable lab environment for educational purposes.
+Introduce the subject, the problem and why the write-up is useful.
 
-## Reconnaissance
+## Context
 
-Document the exposed services and the reasoning behind the next step.
+Explain the relevant background and constraints.
 
-## Enumeration
+## Approach
 
-Explain what was discovered and why it mattered.
+Document the decisions, process and important technical details.
 
-## Initial access
+## Outcome
 
-Describe the vulnerability and the controlled exploitation path.
+Explain the result and what was learned.
 
-## Privilege escalation
+## Trade-offs
 
-Document the path to elevated privileges.
+Describe alternatives, limitations or decisions that deserve more context.
 
-## Lessons and mitigations
+## Lessons and next steps
 
-Summarise the chain and the defensive improvements that would prevent it.
+Summarise the most useful conclusions and possible next steps.
