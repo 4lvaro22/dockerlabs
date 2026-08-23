@@ -9,7 +9,7 @@ This repository is the source of truth for every write-up published on my portfo
 3. Store screenshots in an `assets` directory next to the write-up and use relative links.
 4. Set `status` to `published` when the entry is ready for the portfolio.
 
-The universal required fields are `title`, `slug`, `excerpt`, `date`, `status`, `category` and `tags`. Optional fields such as `context` and `difficulty` can add useful detail when they apply to the subject.
+The universal required fields are `title`, `slug`, `excerpt`, `date`, `status`, `category` and between one and five `tags`. Optional fields such as `context` and `difficulty` can be added when they genuinely apply to the subject.
 
 The portfolio validates the metadata during synchronisation. Invalid or incomplete entries stop the build instead of being published with guessed information.
 

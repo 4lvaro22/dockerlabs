@@ -5,8 +5,6 @@ excerpt: "A concise description of the subject, approach and main takeaway."
 date: "YYYY-MM-DD"
 status: "draft"
 category: "Software engineering"
-context: "Optional project, platform or series"
-difficulty: "Optional level"
 tags:
   - "First topic"
   - "Second topic"
